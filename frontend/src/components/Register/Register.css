@@ -1,0 +1,23 @@
+.form__link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.form__button_register {
+    width: 150px;
+}
+
+.form__button_hide-register {
+    width: 200px;
+    height: 30px;
+    margin: 0 auto;
+    background-color: #d8d8d8;
+    border: none;
+}
+
+.form__error {
+    margin: 5px 0 0;
+    text-align: center;
+    font-size: 12px;
+    color: red;
+}

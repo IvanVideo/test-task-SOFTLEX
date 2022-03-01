@@ -1,0 +1,90 @@
+.page1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.page1__header {
+    display: flex;
+    position: absolute;
+    right: 0;
+    align-items: center;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+
+.page1__filter {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+
+.page1__about {
+    margin: 0 0 0 10px;
+    font-size: 10px;
+}
+
+.page1__button {
+    padding: 5px 0 0 0;
+    font-size: 16px;
+    background-color: #fff;
+    border: none;
+}
+
+.page1__profile {
+    margin: 0 10px 0 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.page1__input {
+    width: 200px;
+}
+
+.page1__table {
+    margin: 0 auto 20px;
+}
+
+.page1__title {
+    margin: 100px 0 20px 0;
+    font-size: 30px;
+}
+
+.page1__container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.table__row {
+    height: 100px;
+}
+
+.page1__button {
+    width: 100px;
+    height: 30px;
+    margin: 0 auto;
+}
+
+.page1__button:hover {
+    cursor: pointer;
+}
+
+.page1__button:focus {
+    outline: none;
+}
+
+.page1__btn {
+    width: 50px;
+    height: 30px;
+    padding: 0;
+}
+
+.page1__status {
+    display: flex;
+    justify-content: space-between;
+}
+
+.page1__btn_edit {
+    margin-right: 10px;
+}

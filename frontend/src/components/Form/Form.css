@@ -1,0 +1,23 @@
+.form__input {
+    margin-right: 10px;
+}
+
+.form__input_name {
+    width: 200px;
+}
+
+.form__input_mail {
+    width: 200px;
+}
+
+.form__input_status {
+    width: 150px;
+    height: 30px;
+    margin: 0 15px 0 0;
+    font-size: 15px;
+    padding: 0;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    font-weight: 400;
+    line-height: 1.3em;
+}
